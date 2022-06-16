@@ -1,6 +1,3 @@
-from itertools import count
-
-
 print('hello Rmutsb Sci cs ITS 16541N')
 #///////////////////////////
 n = 10
